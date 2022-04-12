@@ -1,6 +1,6 @@
 baseURL = "https://3rickdj.github.io/my-launchBlog/"
 languageCode = "en-us"
-title = "Bitácora de Viaje"
+title = "Bitácora de Viaje de Erick De Jesus"
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
