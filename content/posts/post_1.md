@@ -1,5 +1,5 @@
 ---
-title: "La cultura de un desarrollador de software":
+title: "La cultura de un desarrollador de software"
 date: 2022-04-01
 description: "La primera misión del viaje Backend Node Js de launchX"
 ---
