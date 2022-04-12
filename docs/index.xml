@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Launch X Bitácora de viaje. on Bitácora de Viaje de Erick De Jesus</title>
+    <title>Launch X Bitácora de viaje on Bitácora de Viaje de Erick De Jesus</title>
     <link>https://3rickdj.github.io/my-launchBlog/</link>
-    <description>Recent content in Launch X Bitácora de viaje. on Bitácora de Viaje de Erick De Jesus</description>
+    <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Erick De Jesus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://3rickdj.github.io/my-launchBlog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://3rickdj.github.io/my-launchBlog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La cultura de un desarrollador de software</title>
+      <link>https://3rickdj.github.io/my-launchBlog/posts/post_1/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://3rickdj.github.io/my-launchBlog/posts/post_1/</guid>
+      <description>Hola soy Erick. En el tiempo que he estado adquiriendo conocimientos y herramientas para el desarrollo de software, me he dado cuenta de que esta área más que solo resolver problemas es una comunidad. Una comunidad muy unida a pesar de ser diferentes, hablar diferente, pensar diferente, vivir diferente. Siempre que una comunidad prevalezca es necesario tener una cultura bien cimentada. Algo que me encanta de nuestra comunidad es que no es exclusiva, no distingue géneros, no distingue edades, no distingue religiones, no tienes que ser la más bella para destacar, ni ser el más alto, o tener una edad específica para poder desarrollar.</description>
+    </item>
+    
     <item>
       <title>Mis expectativas</title>
       <link>https://3rickdj.github.io/my-launchBlog/posts/intro/</link>
